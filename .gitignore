@@ -1,7 +1,7 @@
 .vagrant/
 ubuntu-xenial-16.04-cloudimg-console.log
-example-2/azure-storage/node_modules/
-example-3/azure-storage/node_modules/
+example-2/gcp-storage/node_modules/
+example-3/gcp-storage/node_modules/
 example-3/video-streaming/node_modules/
 .docker-compose.yml
 gcp-storage/src/*.json
